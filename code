@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="he">
+<meta charset="utf-8">
+<title>Video</title>
+<body style="font-family:Arial; padding:24px">
+  <h1>Video</h1>
+  <video width="720" controls>
+    <source src="media/video.mp4" type="video/mp4">
+    הדפדפן לא תומך בווידאו.
+  </video>
+  <p><a href="media/video.mp4">להורדה ישירה</a></p>
+</body>
+</html>
